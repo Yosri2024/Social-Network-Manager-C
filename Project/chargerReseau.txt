@@ -1,0 +1,10 @@
+U 0 Ahmed 25
+U 1 Karim 30
+U 2 Rania 22
+U 3 Youssef 28
+U 4 Samira 35
+R 0 1 5 # Ahmed Karim (relation forte)
+R 0 2 3 # Ahmed Rania
+R 1 3 2 # Karim Youssef
+R 2 3 4 # Rania Youssef
+R 3 4 1 # Youssef Samira (relation faible)

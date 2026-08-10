@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1744235587 source:c:\users\dkhil\onedrive\bureau\projetasd2\projetasd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTGRP.H"
+
+1743788027 c:\users\dkhil\onedrive\bureau\projetasd2\projetasd2\lstgrp.h
+	"graphe.h"
+
+1743174409 c:\users\dkhil\onedrive\bureau\projetasd2\projetasd2\graphe.h
+	"ELTPRIM.h"
+
+1743165369 c:\users\dkhil\onedrive\bureau\projetasd2\projetasd2\eltprim.h
+	"ELTSDD.h"
+
+1743164908 c:\users\dkhil\onedrive\bureau\projetasd2\projetasd2\eltsdd.h
+	"ELTUSER.h"
+
+1743160758 c:\users\dkhil\onedrive\bureau\projetasd2\projetasd2\eltuser.h
+
+1743349103 source:c:\users\dkhil\onedrive\bureau\projetasd2\projetasd2\eltuser.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1744235475 source:c:\users\dkhil\onedrive\bureau\projetasd2\projetasd2\graphe.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTGRP.H"
+
+1744804531 source:c:\users\dell\onedrive\bureau\asdddddds2222\projetasd2\projetasd2\eltuser.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1743122170 c:\users\dell\onedrive\bureau\asdddddds2222\projetasd2\projetasd2\eltprim.h
+	"ELTSDD.h"
+
+1743121710 c:\users\dell\onedrive\bureau\asdddddds2222\projetasd2\projetasd2\eltsdd.h
+	"ELTUSER.h"
+
+1743117560 c:\users\dell\onedrive\bureau\asdddddds2222\projetasd2\projetasd2\eltuser.h
+
+1744804385 source:c:\users\dell\onedrive\bureau\asdddddds2222\projetasd2\projetasd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTGRP.H"
+
+1743744828 c:\users\dell\onedrive\bureau\asdddddds2222\projetasd2\projetasd2\lstgrp.h
+	"graphe.h"
+
+1743131210 c:\users\dell\onedrive\bureau\asdddddds2222\projetasd2\projetasd2\graphe.h
+	"ELTPRIM.h"
+
+1744737153 source:c:\users\dell\onedrive\bureau\asdddddds2222\projetasd2\projetasd2\graphe.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTGRP.H"
+
+1744804531 source:c:\c programming\test\projet asd\v.f\projetasd2\eltuser.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1743125770 c:\c programming\test\projet asd\v.f\projetasd2\eltprim.h
+	"ELTSDD.h"
+
+1743125310 c:\c programming\test\projet asd\v.f\projetasd2\eltsdd.h
+	"ELTUSER.h"
+
+1743121160 c:\c programming\test\projet asd\v.f\projetasd2\eltuser.h
+
+1744737153 source:c:\c programming\test\projet asd\v.f\projetasd2\graphe.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTGRP.H"
+
+1745094222 c:\c programming\test\projet asd\v.f\projetasd2\lstgrp.h
+	"graphe.h"
+
+1743134810 c:\c programming\test\projet asd\v.f\projetasd2\graphe.h
+	"ELTPRIM.h"
+
+1745093140 source:c:\c programming\test\projet asd\v.f\projetasd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTGRP.H"
+
+1745270681 source:c:\users\dkhil\onedrive\bureau\new folder\projetasd2\eltuser.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ELTPRIM.H"
+	"LSTGRP.H"
+
+1745109803 c:\users\dkhil\onedrive\bureau\new folder\projetasd2\eltprim.h
+	"ELTSDD.h"
+
+1745109806 c:\users\dkhil\onedrive\bureau\new folder\projetasd2\eltsdd.h
+	"ELTUSER.h"
+
+1745106544 c:\users\dkhil\onedrive\bureau\new folder\projetasd2\eltuser.h
+
+1745256779 source:c:\users\dkhil\onedrive\bureau\new folder\projetasd2\graphe.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LSTGRP.H"
+
+1745094222 c:\users\dkhil\onedrive\bureau\new folder\projetasd2\lstgrp.h
+	"graphe.h"
+
+1743131210 c:\users\dkhil\onedrive\bureau\new folder\projetasd2\graphe.h
+	"ELTPRIM.h"
+
+1745270740 source:c:\users\dkhil\onedrive\bureau\new folder\projetasd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LSTGRP.H"
+
